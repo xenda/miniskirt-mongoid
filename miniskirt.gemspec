@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.date = "2011-01-02"
 
-  s.name = "miniskirt"
+  s.name = "miniskirt-mongoid"
   s.version = "1.0.0"
-  s.summary = "factory_girl, relaxed"
+  s.summary = "factory_girl, relaxed with Mongoid support"
   s.description = "Test::Unit begot MiniTest; factory_girl begets Miniskirt."
 
   s.require_path = "."
